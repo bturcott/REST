@@ -1,0 +1,5 @@
+{
+  "rest_fixture.py::TestREST::()::test_delete": true, 
+  "rest_fixture.py::TestREST::()::test_post": true, 
+  "rest_fixture.py::TestREST::()::test_put": true
+}
